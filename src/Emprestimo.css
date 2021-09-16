@@ -1,0 +1,110 @@
+.App {
+    display: grid;
+    grid-template-columns: 1fr 9fr;
+  }
+.div_qrcode{
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    background-color: rgb(228, 48, 48);
+    height: 50%;
+
+}
+.div_imagens{
+    background-color: rgb(255, 255, 255);
+}
+.Teste{
+    background-color: rgb(255, 255, 255);
+    height: 50%;
+}
+.div_info{
+    background-color: rgb(255, 255, 255);
+}
+.App-Receba{
+    margin: 15px;
+}
+.App-Digital{
+    margin: 15px;
+}
+.App-JurosBaixos{
+    margin: 15px;
+}
+.App-Analise{
+    margin: 15px;
+
+}
+
+.App-consig-text1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+
+    color: #D93400;
+}
+.App-emp-text1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+
+    color: #F6A6C8;
+}
+.App-text2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.App-text3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+}
+.App-text5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 35px;
+    color: #000000;
+}
+.App-text6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    margin-left: 30%;
+    color: #AEBD02;
+}
+
+.App-emp-text6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    margin-left: 30%;
+    color: #F6A6C8;
+}
+
+.App-text7{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 35px;
+    color: #000000;
+}
+.App-QRcode{
+    margin-left: 40%;
+}
